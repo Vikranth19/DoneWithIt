@@ -11,6 +11,7 @@ import ListItemSeparator from '../components/ListItemSeparator'
 import Screen from '../components/Screen'
 
 export default function MessagesScreen() {
+  //dummy data
   const messages = [
     {
       id: 1,
